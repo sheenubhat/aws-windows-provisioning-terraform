@@ -1,0 +1,7 @@
+region = "us-east-1"
+instance_type = "value"
+key_name = "value"
+sg_id = "value"
+//private_ip = "value"
+subnet_id = "value"
+availability_zone = "value"
